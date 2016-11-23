@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            Movin TS Game
+        </title>
+
+        <link rel="stylesheet" href="style.css">
+
+        <script src="build/Game.js"></script>
+        <script src="build/Player.js"></script>
+        <script src="build/Circle.js"></script>
+    </head>
+    <body>
+        <canvas id="canvas">
+            Canvas not supported on your browser!
+        </canvas>
+
+        <script>
+            window.onload = function() {
+                console.log("Initialize!");
+                new Game().initialize();
+            }
+        </script>
+    </body>
+</html>

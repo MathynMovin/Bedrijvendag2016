@@ -1,0 +1,14 @@
+{
+  "name": "bedrijvendag2016",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathynMovin/Bedrijvendag2016.git"
+  },
+  "author": "Mathyn Buiteveld (Movin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathynMovin/Bedrijvendag2016/issues"
+  },
+  "homepage": "https://github.com/MathynMovin/Bedrijvendag2016#readme"
+}
